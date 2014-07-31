@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aelpli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.316685199737549,
+          47.217571457159295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kapelle Jonental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.411359190940857,
+          47.30105338651482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kohlenbergwerk Käpfnach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.61352264881134,
+          47.25335045997536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hedinger Weiher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.455427885055542,
+          47.29556720980156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Römischer Gutshof"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.412989974021912,
+          47.30884510727436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Täuferhöhle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.885300159454346,
+          47.31693389526848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hammetschwandlift"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.39632272720337,
+          47.00100714366595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Creux du Van",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.722989082336426,
+          46.93204470957717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Selunbahn",
+        "Notes": "inaccurate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.251303672790527,
+          47.18345639406436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thurwasserfälle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.311712384223938,
+          47.20217136818216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schlauchboottour auf der Linth",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.05771255493164,
+            47.136607240775255
+          ],
+          [
+            8.99351119995117,
+            47.18259594441991
+          ],
+          [
+            8.971710205078125,
+            47.216303469230134
+          ],
+          [
+            8.967418670654297,
+            47.21758603155691
+          ],
+          [
+            8.95454406738281,
+            47.21618687111665
+          ],
+          [
+            8.939437866210938,
+            47.21875197038831
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bachtelturm",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.886335492134094,
+          47.294661281038664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aussichtsturm Pfannenstiel",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.673373460769653,
+          47.29075360323177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Freilichtmuseum Ballenberg",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.078577518463135,
+          46.751064795860124
+        ]
+      }
+    }
+  ]
+}
